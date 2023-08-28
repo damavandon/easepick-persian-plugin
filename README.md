@@ -1,0 +1,1 @@
+# easepick-persian-plugin
